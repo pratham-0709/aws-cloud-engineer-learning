@@ -50,8 +50,8 @@ This repository documents my hands-on learning path to becoming a Cloud Engineer
 [View detailed architecture →](projects/three-tier-app.md)
 
 ## Contact
-- **LinkedIn:** [Your Profile]
-- **GitHub:** [Your Username]
+- **LinkedIn:** [http://www.linkedin.com/in/prathamesh-shukla-615007159]
+- **GitHub:** [https://github.com/pratham-0709]
 
 ---
 *Last Updated: January 17, 2026*
