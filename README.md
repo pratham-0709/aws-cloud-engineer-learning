@@ -21,7 +21,7 @@ This repository documents my hands-on learning path to becoming a Cloud Engineer
 
 - [x] [Day 1: CloudTrail Setup](week-1/day-1-cloudtrail.md)
 - [x] [Day 2: AWS Backup for RDS](week-1/day-2-aws-backup.md)
-- [ ] [Day 3: EBS Snapshots & AMI](week-1/day-3-ebs-ami.md)
+- [x] [Day 3: EBS Snapshots & AMI](week-1/day-3-ebs-ami.md)
 - [ ] [Day 4: Disaster Recovery Testing](week-1/day-4-disaster-recovery-test.md)
 - [ ] [Day 5: DR Documentation](week-1/day-5-dr-documentation.md)
 
@@ -54,4 +54,4 @@ This repository documents my hands-on learning path to becoming a Cloud Engineer
 - **GitHub:** [https://github.com/pratham-0709]
 
 ---
-*Last Updated: January 17, 2026*
+*Last Updated: February 18, 2026*
